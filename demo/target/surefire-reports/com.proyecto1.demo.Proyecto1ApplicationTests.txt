@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.proyecto1.demo.Proyecto1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 59.658 s - in com.proyecto1.demo.Proyecto1ApplicationTests
